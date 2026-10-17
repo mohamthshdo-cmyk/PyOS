@@ -1,0 +1,6 @@
+﻿# PyOS optional dependencies
+# Install with:  pip install -r requirements.txt
+# PyOS runs without these, but with reduced features.
+
+tkinterweb>=3.0   # PyChrome embedded web browser
+psutil>=5.9       # `free` command with real memory numbers
